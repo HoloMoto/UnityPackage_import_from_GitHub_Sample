@@ -1,5 +1,5 @@
 {
-  "name": "com.holomoto.sampleUnityPackage",
+  "name": "com.holomoto.samplepackage.unity",
   "version": "0.1.0",
   "displayName": "HoloMotoSampleUnityPackage",
   "description": "Sample for loading files from GitHub repository as Unity packages in any Unity project",

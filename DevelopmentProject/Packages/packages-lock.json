@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.holomoto.samplepackage.unity": {
+      "version": "file:../../com.holomoto.samplepackage.unity",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.burst": {
       "version": "1.6.5",
       "depth": 1,
